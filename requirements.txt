@@ -1,0 +1,9 @@
+langchain
+sentence-transformers
+pymupdf
+chromadb
+fastapi
+uvicorn
+nltk
+bnlp-toolkit
+python-multipart

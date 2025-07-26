@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.DS_Store
+
+# ChromaDB and vector store files
+vector_store/chroma_db/
+*.sqlite3
+*.bin
+
+# Jupyter and editor config
+.ipynb_checkpoints/
+*.vscode/
+*.idea/
+
+# OS generated files
+Thumbs.db
+
